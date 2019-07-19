@@ -9,6 +9,7 @@ h1, nav, figure {
 }
 
 nav a {
+  background-color: green;
   padding-left: 10px;
   padding-right: 10px;
 }
