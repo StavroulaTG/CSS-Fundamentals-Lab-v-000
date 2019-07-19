@@ -28,6 +28,7 @@ nav a {
 }
 
 p {
+  width: 800px;
   margin: auto;
   text-align: center;
 }
