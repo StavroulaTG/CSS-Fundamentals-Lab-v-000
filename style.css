@@ -28,8 +28,8 @@ div {
 }
 
 p {
-  display: block;
-  ]
+  display: inline-block;
+
   margin: 25px;
   text-align: center;
 
