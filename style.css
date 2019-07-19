@@ -8,6 +8,10 @@ header, figure {
   text-align: center;
 }
 
+figcaption {
+  font-size: .85em;
+}
+
 nav a {
   background-color: green;
   padding-left: 10px;
