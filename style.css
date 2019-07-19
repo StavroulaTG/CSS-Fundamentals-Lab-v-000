@@ -3,3 +3,23 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1, nav, figure {
+  text-align: center;
+}
+
+#feature-property {
+  width: 800px;
+}
+
+p {
+
+
+}
+
+div {
+  float: left;
+  background: red;
+  width: 25%;
+  text-align: center;
+}
