@@ -23,7 +23,8 @@ nav a {
 #details {
   display: block;
 }
-div {
+
+#details div {
   float: left;
   background: red;
   width: 25%;
