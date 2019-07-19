@@ -28,7 +28,8 @@ div {
 }
 
 p {
-
+  display: block;
+  ]
   margin: 25px;
   text-align: center;
 
