@@ -8,6 +8,11 @@ h1, nav, figure {
   text-align: center;
 }
 
+nav a {
+  padding-left: 10px;
+  padding-right: 10px; 
+}
+
 #feature-property {
   width: 800px;
 
