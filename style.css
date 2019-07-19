@@ -29,7 +29,7 @@ div {
 
 p {
   display: inline-block;
-  margin: auto;
+  margin: flex;
   text-align: center;
 
 }
