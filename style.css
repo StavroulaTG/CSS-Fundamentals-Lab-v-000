@@ -10,7 +10,8 @@ h1, nav, figure {
 
 #feature-property {
   width: 800px;
-  margin: auto;
+  text-align: center;
+
 }
 
 p {
