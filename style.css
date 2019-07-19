@@ -26,6 +26,7 @@ p {
 div {
   float: left;
   background: red;
-width: 25%;
+  width: 25%;
+  text-align: center;
 
 }
