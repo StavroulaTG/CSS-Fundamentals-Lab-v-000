@@ -23,6 +23,7 @@ div {
   background: red;
   width: 25%;
   text-align: center;
+  display: block;
 }
 
 p {
