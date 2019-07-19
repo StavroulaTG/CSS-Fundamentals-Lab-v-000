@@ -21,7 +21,7 @@ nav a {
 #feature-property p {
   width: 800px;
   text-align: center;
-  margin: auto;
+  margin: inherit;
 }
 
 div {
