@@ -22,10 +22,11 @@ div {
   float: left;
   background: red;
   width: 25%;
-text-align: center;
+  text-align: center;
 }
 
 p {
+  width: 2em;
   text-align: center;
 
 }
